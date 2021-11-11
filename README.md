@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Harish Kumar
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning cryptography and network security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via email
+- 💞️ I’m looking to collaborate on projects that are my area of interest.
+- 📫 You can reach me via email
 
 
 <!---
